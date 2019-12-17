@@ -9,7 +9,7 @@ const insertImgDiv = (imgSrc, shortCode) => {
 
 $(document).ready(() => {
     const accountName = '9gag';
-    const url = `http://www.instagram.com/${accountName}/?__a=1`
+    const url = `https://www.instagram.com/${accountName}/?__a=1`
     fetch(url)
     .then(res => res.json())
     .then(data => {
