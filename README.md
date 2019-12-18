@@ -16,5 +16,5 @@ Usage:
 ```html
 <link rel="stylesheet" href="style.css">
 ``` 
-3. Modify `accountName` and `numberOfImages`, inside `app.js`. (I recommend an even number for `numberOfImages` for mobile responsiveness)
+3. Modify `accountName` and `numberOfImages` inside `app.js`.
 
