@@ -4,6 +4,10 @@ Description:
 -
 A simple instagram image fetcher that grabs images from an instagram account.
 
+Demo:
+-
+https://confident-yalow-8f97ad.netlify.app/
+
 Usage:
 -
 1. Inside your HTML, within the `<body>` tag add the following lines:
